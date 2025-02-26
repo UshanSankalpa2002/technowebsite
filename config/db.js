@@ -1,4 +1,4 @@
-import mongoose, { Promise } from "mongoose";
+import mongoose from "mongoose";
 
 let cached=global.mongoose
 
